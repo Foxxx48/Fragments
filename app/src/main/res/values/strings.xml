@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+
+    <string-array name="bicycles">
+        <item>Cannondale</item>
+        <item>Bianchi</item>
+        <item>Canyon</item>
+        <item>Cube</item>
+    </string-array>
+
+</resources>
